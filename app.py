@@ -6,6 +6,7 @@ import joblib
 model = joblib.load('heart_model.joblib')
 scaler = joblib.load('scaler.joblib')
 
+
 # --- Page Config ---
 st.set_page_config(page_title="Heart Disease Predictor", layout="wide")
 

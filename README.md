@@ -41,5 +41,3 @@ This project uses clinical data and machine learning to predict the likelihood o
 - Source: Kaggle – https://www.kaggle.com/datasets/ritwikb3/heart-disease-statlog
 - Contains health indicators like age, cholesterol, resting blood pressure, max heart rate, and more.
 - Target column: `target` (0 = No Heart Disease, 1 = Heart Disease Present)
-
----

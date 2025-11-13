@@ -4,7 +4,7 @@ This project uses clinical data and machine learning to predict the likelihood o
 
 ---
 
-##  Features Included :
+##  Features Included 
 
 - Logistic Regression ML model
 - Performance metrics: Accuracy, Precision, Recall, F1 Score, ROC-AUC
@@ -15,7 +15,7 @@ This project uses clinical data and machine learning to predict the likelihood o
 
 ---
 
-## Sample Metrics :
+## Sample Metrics 
 
 | Metric       | Score     |
 |--------------|-----------|
@@ -27,7 +27,7 @@ This project uses clinical data and machine learning to predict the likelihood o
 
 ---
 
-## Libraries Used :
+## Libraries Used 
 
 - `pandas`, `numpy`
 - `matplotlib`, `seaborn`
@@ -36,7 +36,7 @@ This project uses clinical data and machine learning to predict the likelihood o
 
 ---
 
-##  Dataset Info :
+##  Dataset Info 
 
 - Source: Kaggle – https://www.kaggle.com/datasets/ritwikb3/heart-disease-statlog
 - Contains health indicators like age, cholesterol, resting blood pressure, max heart rate, and more.

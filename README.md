@@ -104,6 +104,9 @@ streamlit run app.py
 - Contains health indicators like age, cholesterol, resting blood pressure, max heart rate, and more.
 - Target column: `target` (0 = No Heart Disease, 1 = Heart Disease Present)
 
+## 🌐 Live Demo
+https://predictionheartdiseaseapp.streamlit.app/
+
 ## Screenshots 
 ![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202025-12-13%20010015.png?raw=true)
 ![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202025-12-13%20010044.png?raw=true)

@@ -107,6 +107,6 @@ streamlit run app.py
 ## 🌐 Live Demo
 https://predictionheartdiseaseapp.streamlit.app/
 
-## Screenshots 
+## 📸 Screenshots
 ![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202025-12-13%20010015.png?raw=true)
 ![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202025-12-13%20010044.png?raw=true)

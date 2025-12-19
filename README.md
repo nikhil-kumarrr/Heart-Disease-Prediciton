@@ -7,7 +7,7 @@ It uses a trained classification model along with feature scaling to provide acc
 * ✔️ ML model trained using Heart Disease Statlog Dataset
 * ✔️ Inputs for 13+ medical attributes
 * ✔️ Real-time prediction using .joblib model
-* ✔️ Risk score displayed in percentage
+* ✔️ Risk score displayed in percentage 
 * ✔️ Progress bar visualization for heart risk
 * ✔️ Beautiful hospital-theme UI with smooth hover animations
 * ✔️ Validations & clean UI sections

@@ -11,7 +11,7 @@ It uses a trained classification model along with feature scaling to provide acc
 * ✔️ Progress bar visualization for heart risk
 * ✔️ Beautiful hospital-theme UI with smooth hover animations
 * ✔️ Validations & clean UI sections
-
+ 
 ## 🧠 How It Works
 ### 1. Dataset
 You used the Heart Disease Statlog dataset containing features like:
